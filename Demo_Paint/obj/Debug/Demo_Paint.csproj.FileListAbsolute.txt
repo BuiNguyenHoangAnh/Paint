@@ -1,0 +1,30 @@
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\bin\Debug\Demo_Paint.exe.config
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\bin\Debug\Demo_Paint.exe
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\bin\Debug\Demo_Paint.pdb
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\obj\Debug\Demo_Paint.csprojResolveAssemblyReference.cache
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\obj\Debug\Demo_Paint.Form1.resources
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\obj\Debug\Demo_Paint.Properties.Resources.resources
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\obj\Debug\Demo_Paint.csproj.GenerateResource.Cache
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\obj\Debug\Demo_Paint.exe
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\obj\Debug\Demo_Paint.pdb
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint\Demo_Paint\obj\Debug\Demo_Paint.Facebook.resources
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\bin\Debug\Demo_Paint.exe.config
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.exe
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.pdb
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\bin\Debug\Demo_Paint.exe
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\bin\Debug\Demo_Paint.pdb
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.csprojResolveAssemblyReference.cache
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.Form1.resources
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.Facebook.resources
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.Properties.Resources.resources
+C:\Users\duong\Desktop\truc quan\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.csproj.GenerateResource.Cache
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\bin\Debug\Demo_Paint.exe.config
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.exe
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.pdb
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\bin\Debug\Demo_Paint.exe
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\bin\Debug\Demo_Paint.pdb
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.csprojResolveAssemblyReference.cache
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.Form1.resources
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.Facebook.resources
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.Properties.Resources.resources
+E:\tailieuDH\giaotrinhDH\HK4\Lap trinh truc quan_4_3_1\Demo_Paint now\Demo_Paint\obj\Debug\Demo_Paint.csproj.GenerateResource.Cache
